@@ -1,0 +1,2 @@
+# yuju-asterisk
+Asterisk class
